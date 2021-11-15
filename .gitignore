@@ -60,3 +60,4 @@ crashlytics-build.properties
 
 .idea
 .DS_Store
+Assets/Photon/Resources/PhotonAppSettings*
